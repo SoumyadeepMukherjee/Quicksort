@@ -6,6 +6,8 @@
 
 * The code is typed and edited in #codeblocks.
 
+# CHECK OUT THE CODE AND GIVE A STAR AND FEEL FREE TO MAKE CHANGES.
+
 
 
  
